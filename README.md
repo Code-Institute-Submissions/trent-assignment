@@ -1,6 +1,3 @@
 # trent-assignment
-#This is my assignment.
-
-#UI/UX
--socpe
--stategy
+#This is deprecated.
+Please see in master2.
